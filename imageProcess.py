@@ -1,5 +1,4 @@
 ## image process program, transfer color image to 28 * 28 black and write image
-## From https://www.jianshu.com/p/82387ae42587
 import os
 from skimage import io
 import numpy as np
